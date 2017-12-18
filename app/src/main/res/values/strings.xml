@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Draw&amp;Draw</string>
+    <string name="title_activity_user_area">UserAreaActivity</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="id">User ID</string>
+    <string name="password">Password</string>
+
+</resources>
